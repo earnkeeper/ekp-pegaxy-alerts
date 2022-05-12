@@ -1,0 +1,6 @@
+configVersion: 1
+project: pegaxy-alerts
+---
+image: alerts
+dockerfile: Dockerfile
+context: .
